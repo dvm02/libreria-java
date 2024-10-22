@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Examen
+comment1.params=txt\ c
+comment1.target=boolean\ hayChar(java.lang.String,\ char)
+comment1.text=\r\n\ Dado\ un\ texto\ indicar\ si\ contiene\ algun\ caracter\ numerico.\r\n
+comment2.params=txt
+comment2.target=boolean\ existeNumero(java.lang.String)
+comment3.params=n
+comment3.target=int\ cantDig(int)
+comment3.text=\r\n\ Dado\ dos\ numeros\ enteros\ positivos,\ indique\ si\ la\ cantidad\ de\ digitos\ del\ primero\ es\ igual\ al\ valor\ del\ segundo\ numero.\r\n
+comment4.params=n1\ n2
+comment4.target=boolean\ respExamne2(int,\ int)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Puerta
+comment1.params=txt\ x
+comment1.target=boolean\ verificarX(java.lang.String,\ char)
+comment1.text=\r\n\ VerificarX\:\ Funci\u00F3n\ que\ verifica\ si\ el\ primer\ caracter\ de\ un\ texto\ es\ una\ letra\ X\r\n\ \r\n\ @param\ txt\ type\ String\:\ txt\ es\ el\ texto\ ingresado\ a\ verificar.\r\n\ @param\ x\ type\ char\:\ x\ es\ el\ caracter\ a\ verificar\ si\ es\ igual\ al\ primer\ caracter\ del\ txt.\r\n\ \r\n\ @return\ res\ type\ boolean\:\ true\ si\ la\ letra\ es\ igual\ /\ false\ si\ no\ es\ igual.\r\n
+comment2.params=nom\ ed\ gen
+comment2.target=boolean\ verificarDatos(java.lang.String,\ int,\ char)
+comment2.text=\r\n\ Puerta\ automatica\:\ Programa\ que\ permite\ indicar\ si\ se\ abre\ una\ puerta\ bajo\ la\ condici\u00F3n\r\n\ \ \ \ \ \ de\ ser\ mayor\ de\ edad,\ que\ sea\ del\ genero\ femenino\ y\ que\ no\ inicie\ su\ nombre\ con\ la\ letra\ M.\r\n\ \ \ \ \ \ \r\n\ @param\ nom\ type\ String\:\ Nombre\ de\ la\ persona.\r\n\ @param\ ed\ type\ int\:\ Edad\ registrada.\r\n\ @param\ gen\ type\ char\:\ El\ genero\ de\ la\ persona\ (F\=\ Femenino\ /\ M\=\ Masculino).\r\n\ \r\n\ @return\ res\ type\ boolean\:\ \ true\=\ Se\ abre\ la\ puerta\ /\ false\=\ No\ cumple\ la\ condici\u00F3n.\r\n
+numComments=3

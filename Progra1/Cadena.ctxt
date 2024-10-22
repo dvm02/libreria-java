@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cadena
+comment1.params=texto\ caracter
+comment1.target=boolean\ existeCaracter(java.lang.String,\ char)
+comment1.text=\r\n\ Funcion\ que\ indica\ si\ un\ caracter\ existe\ en\ una\ cadena\ de\ texto\r\n
+comment2.params=texto
+comment2.target=int\ contarLetras(java.lang.String)
+comment2.text=\r\n\ Funcion\ que\ indica\ cuantas\ letras\ tiene\ un\ texto\r\n
+numComments=3

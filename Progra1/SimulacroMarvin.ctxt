@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SimulacroMarvin
+comment1.params=txt\ x
+comment1.target=boolean\ existCharPos0(java.lang.String,\ char)
+comment1.text=\r\n\ existCharPos0\:\ Funcion\ que\ verifica\ si\ un\ texto\ tioene\ como\ caracteri\ inicial\ un\ a\ letra\ X\r\n\ \r\n\ @param\ txt\ type\ String\:\ El\ texto\ a\ verificar.\r\n\ @param\ x\ type\ char\:\ El\ caracter\ a\ buscar.\r\n\ \r\n\ @return\ res\ type\ boolean\:\ True\ en\ caso\ el\ caracter\ x\ sea\ la\ primera\ letra\ en\ el\ txt.\r\n
+comment2.params=nom\ ed\ gen
+comment2.target=boolean\ abrirPuerta(java.lang.String,\ int,\ java.lang.String)
+comment2.text=\r\n\ abrir\ puerta\:\ procesos\ uqe\ indica\ si\ una\ puerta\ sera\ abierta\ en\ los\ siguientes\ casos\:\r\n\ \ -\ Si\ es\ mayor\ de\ edad.\r\n\ \ -\ Si\ es\ del\ genero\ es\ femenino.\r\n\ \ -\ Si\ no\ inicia\ el\ nombre\ \ con\ la\ letra\ M.\r\n\ \ \r\n\ \ @param\ nom\ type\ String\ \:\ Referencia\ al\ nombre\ ingresado.\r\n
+numComments=3

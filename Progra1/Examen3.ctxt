@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Examen3
+comment1.params=num
+comment1.target=int\ cantDiv(int)
+comment1.text=\r\n\ Dado\ dos\ numeros\ enteros\ positivos,\ indicar\ si\ tienen\ la\ misma\ cantidad\ de\ divisores.\r\n
+comment2.params=a\ b
+comment2.target=boolean\ divIguales(int,\ int)
+comment3.params=txt\ num
+comment3.target=boolean\ resp2(java.lang.String,\ int)
+comment3.text=\r\n\ dato\ un\ texto\ y\ un\ numero\ entero\ positivo,\ verificar\ si\ el\ texto\ tiene\ la\ cantidad\ de\ caracteres\ igual\ al\ n\u00FAmero,\r\n
+numComments=4
